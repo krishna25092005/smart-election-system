@@ -1,4 +1,4 @@
-# 🗳️ Smart Election System
+# 📤 Smart Election System 📥
 
 ![Smart Voting System](background.png)
 
